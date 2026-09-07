@@ -5,7 +5,7 @@ about:
   head: c4b9bec
   archived: false
   latestVersion: "v0.2.5"
-  collectedAt: 2026-09-07T05:02:46Z
+  collectedAt: 2026-09-07T19:22:26Z
 timeline:
   created: 2021-11-13
   lastCommit: 2026-06-23
@@ -82,7 +82,7 @@ total:
   commit: 96
 ---
 path: /home/runner/.x-repo/github.com/elichai/kaspa-miner
-collectedAt: 2026-09-07T05:02:47Z
+collectedAt: 2026-09-07T19:22:27Z
 loc:
   AssemblyGAS:
     code: 1946
@@ -133,7 +133,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:02:48+00:00
+  collectedAt: 2026-09-07T19:22:28+00:00
   platform:
     darwin/arm64:
       name:  kaspa-miner-v0.2.5-osx-aarch64
