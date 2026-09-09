@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.2.5"
   latestRelease: "v0.2.5"
   latestPrerelease: "v0.2.3-rc3"
-  collectedAt: 2026-09-09T05:20:40Z
+  collectedAt: 2026-09-09T19:35:46Z
 timeline:
   created: 2021-11-13
   lastCommit: 2026-06-23
@@ -86,7 +86,7 @@ total:
   commit: 96
 ---
 path: /home/runner/.x-repo/github.com/elichai/kaspa-miner
-collectedAt: 2026-09-09T05:20:40Z
+collectedAt: 2026-09-09T19:35:46Z
 loc:
   AssemblyGAS:
     code: 1946
