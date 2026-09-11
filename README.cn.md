@@ -4,7 +4,7 @@
 
 A fast CPU miner for Kaspa
 
-![kaspa-miner](https://repo.x-cmd.io/kaspa-miner.svg)
+![kaspa-miner](https://repo.x-cmd.io/kaspa-miner.svg?lang=zh)
 
 ## 安装
 
@@ -12,35 +12,7 @@ A fast CPU miner for Kaspa
 x install kaspa-miner
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/elichai/kaspa-miner>
-- **许可证**: Apache-2.0
-
-## 发布
-
-- **最新版本**: `v0.2.5` (2024-01-07)
-- **最近提交**: 2026-06-23
-- **Release 含资产**: 5 个
-- **发布时间**: 2024-01-07T16:43:09Z
-
-## 流行度
-
-- **Star**: 103 · **Fork**: 125 · **开放 issue**: 20 · **贡献者**: 8
-
-## 累计统计
-
-- **发布数**: 15 · **已合并 PR**: 12 · **开放 PR**: 2 · **已关闭 issue**: 8 · **开放 issue**: 12 · **提交数**: 96
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 360d | 2025-09-15 | 0 | 2 | 0 | 0 | 0 | 11 |
-
-## 代码规模
+## 代码洞察
 
 合计: **5,101** 行代码（覆盖前 5 种语言、共 **22** 个文件）。
 
@@ -52,6 +24,46 @@ x install kaspa-miner
 | Assembly | 534 | 0 | 127 | 1 |
 | Sh | 84 | 1 | 16 | 1 |
 
+## 源代码
+
+- **上游仓库**: <https://github.com/elichai/kaspa-miner>
+- **许可证**: Apache-2.0
+
+## 发布
+
+- **最新版本**: `v0.2.5` (2024-01-07)
+- **最近提交**: 2026-06-23
+- **Release 含资产**: 5 个
+
+## 流行度
+
+- **Star**: 103 · **Fork**: 126 · **开放 issue**: 20 · **贡献者**: 8
+
+## 累计统计
+
+- **发布数**: 15 · **已合并 PR**: 12 · **开放 PR**: 2 · **已关闭 issue**: 8 · **开放 issue**: 12 · **提交数**: 96
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last180d | 2026-03-15 | 0 | 1 | 0 | 0 | 0 | 2 |
+| 360d | 2025-09-16 | 0 | 2 | 0 | 0 | 0 | 11 |
+| last720d | 2024-09-21 | 0 | 2 | 2 | 1 | 1 | 12 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [kaspa-miner-v0.2.5-linux-gnu-amd64](https://github.com/elichai/kaspa-miner/releases/download/v0.2.5/kaspa-miner-v0.2.5-linux-gnu-amd64) | 3.5 MiB | `native/linux/x64/glibc` |
+| [kaspa-miner-v0.2.5-linux-musl-amd64](https://github.com/elichai/kaspa-miner/releases/download/v0.2.5/kaspa-miner-v0.2.5-linux-musl-amd64) | 3.6 MiB | `native/linux/x64/musl` |
+| [kaspa-miner-v0.2.5-osx-aarch64](https://github.com/elichai/kaspa-miner/releases/download/v0.2.5/kaspa-miner-v0.2.5-osx-aarch64) | 3.0 MiB | `native/darwin/arm64` |
+| [kaspa-miner-v0.2.5-osx-amd64](https://github.com/elichai/kaspa-miner/releases/download/v0.2.5/kaspa-miner-v0.2.5-osx-amd64) | 3.2 MiB | `native/darwin/x64` |
+| [kaspa-miner-v0.2.5-win64-amd64.exe](https://github.com/elichai/kaspa-miner/releases/download/v0.2.5/kaspa-miner-v0.2.5-win64-amd64.exe) | 3.9 MiB | `native/win/x64` |
+
 ## 改进这些数据
 
 kaspa-miner 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `kaspa-miner` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -61,4 +73,4 @@ kaspa-miner 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:03:55Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:03:18Z._
